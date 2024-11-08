@@ -47,7 +47,6 @@ video {
 }
 
 .page__title {
-  /* position: static */
   z-index: 1;
   max-width: 720px;
   margin: 60px auto 0;
