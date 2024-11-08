@@ -1,1 +1,1 @@
-https://github.com/vvk2020/ono-tebe-nado
+https://github.com/vvk2020/nado-sdelat-idealno
