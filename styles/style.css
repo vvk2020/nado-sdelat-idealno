@@ -90,5 +90,5 @@ video {
   text-align: left;
   text-transform: initial;
   background-color: #fff;
-  white-space: pre; /* content отображается как задан (spaces, переносы и пр.) */
+  white-space: pre; /* content отображается как есть (spaces, переносы и пр.) */
 }
